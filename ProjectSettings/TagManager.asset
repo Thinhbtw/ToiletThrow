@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EndPoint
+  - DeathPoint
+  - Star
+  - Glass
+  - Ground
+  - Zoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Button
+  - Glass
+  - Toilet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UIGameplay
+    uniqueID: 1388306419
+    locked: 0
+  - name: UIEnd
+    uniqueID: 1228633997
+    locked: 0
+  - name: UIHome
+    uniqueID: 380965575
+    locked: 0
+  - name: UILevel
+    uniqueID: 1948764841
+    locked: 0
+  - name: UIShop
+    uniqueID: 3685701015
+    locked: 0

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">166564504641</string>
+  <string name="google_storage_bucket" translatable="false">toiletthrow.appspot.com</string>
+  <string name="project_id" translatable="false">toiletthrow</string>
+  <string name="google_api_key" translatable="false">AIzaSyAvABt1NtX5V1rETuNkAqPci4P-MAQSbpQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvABt1NtX5V1rETuNkAqPci4P-MAQSbpQ</string>
+  <string name="google_app_id" translatable="false">1:166564504641:android:1dadc13aa9ba660da312c0</string>
+  <string name="default_web_client_id" translatable="false">166564504641-8mj7aensktd03j4setb4h3oc0slriocj.apps.googleusercontent.com</string>
+</resources>

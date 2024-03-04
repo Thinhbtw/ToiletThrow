@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166564504641",
+    "project_id": "toiletthrow",
+    "storage_bucket": "toiletthrow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166564504641:android:1dadc13aa9ba660da312c0",
+        "android_client_info": {
+          "package_name": "com.gen.toiletthrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166564504641-8mj7aensktd03j4setb4h3oc0slriocj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvABt1NtX5V1rETuNkAqPci4P-MAQSbpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166564504641-8mj7aensktd03j4setb4h3oc0slriocj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
